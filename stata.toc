@@ -1,0 +1,3 @@
+v 1.0.3
+d User-written Stata packages
+p wtttable APA Word tables and mapping documents for Welch two-sample t tests

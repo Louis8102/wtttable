@@ -1,0 +1,17 @@
+v 1.0.3
+d wtttable: APA Word tables for Welch two-sample t tests
+d
+d wtttable creates APA-style Word tables for two independent-group
+d Welch t tests across multiple outcomes, with FDR adjustment and
+d absolute Hedges' g_av effect sizes. It can display compact Item01-style
+d labels and create a separate Word mapping document for full item labels
+d and block/subscale headings. The results() dataset retains signed effect
+d sizes, standard errors, and signed confidence limits.
+d
+d Author: Hao Ma
+d
+f wtttable.ado
+f wtttable.sthlp
+f wtttable_example.do
+f README.md
+f LICENSE
